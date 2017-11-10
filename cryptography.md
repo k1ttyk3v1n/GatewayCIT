@@ -7,3 +7,5 @@ Below is a list of useful tools for completing the cryptography challenges in th
 - [Hex to ASCII text converter](http://www.rapidtables.com/convert/number/hex-to-ascii.htm)
 - [rot13.com](http://rot13.com/)
 - [Wingdings Translator](https://lingojam.com/WingdingsTranslator)
+- [Variety of Cipher Tools](http://rumkin.com/cipher/)
+- [Stego Tool for Win and Linux](http://diit.sourceforge.net)
